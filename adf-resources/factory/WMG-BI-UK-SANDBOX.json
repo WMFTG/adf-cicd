@@ -1,0 +1,9 @@
+{
+	"name": "WMG-BI-UK-SANDBOX",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4bf16ec8-05c1-4f24-850c-eacf4a7a20a5",
+		"tenantId": "2278c488-f1d9-4fec-951c-8eb2ad783328"
+	}
+}
